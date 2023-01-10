@@ -1,2 +1,8 @@
-# ot-card-theme-toggle-u2
-How To Toggle Between Dark and Light Mode using Javascript | Dark &amp; Light Mode User Card UI Design
+# Dark & Light Mode User Card UI Design
+### This design belongs to [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT), you can see the video [here](https://youtu.be/JhVMAzrvdos).
+
+#### Light Mode
+![preview img 2](/preview-1.jpeg)
+
+#### Dark Mode
+![preview img 1](/preview-2.jpeg)
