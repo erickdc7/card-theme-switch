@@ -1,5 +1,5 @@
 # Dark & Light Mode User Card UI Design
-### This design belongs to [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT), you can see the video [here](https://youtu.be/JhVMAzrvdos).
+### This design is inspired by the work of [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT). Click [here](https://youtu.be/JhVMAzrvdos) to watch the video.
 
 #### Light Mode
 ![preview img 2](/preview-1.jpeg)
